@@ -1,122 +1,92 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/LA1HD.png" group-title="SP SPAIN/TDT"LA 1
-
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="http://logo.sltv.site/logo/SPAIN/LA1HD.png" group-title="SP SPAIN/TDT"LA 1 
-
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
 
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HEVC" tvg-logo="http://logo.sltv.site/logo/SPAIN/LA1HD.png" group-title="SP (HEVC/4K)"LA 1
-
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/LA2.png" group-title="SP SPAIN/TDT"LA 2 
-
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://rtvelivestreamv3.akamaized.net/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 FHD" tvg-logo="http://logo.sltv.site/logo/SPAIN/LA2.png" group-title="SP SPAIN/TDT" LA 2 
-
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 HEVC" tvg-logo="http://logo.sltv.site/logo/SPAIN/LA2.png" group-title="SP SPAIN/TDT" LA 2 
-
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/ANTENA3HD.png" group-title="SP SPAIN/TDT"ANTENA 3
-
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://logo.sltv.site/logo/SPAIN/ANTENA3HD.png" group-title="SP SPAIN/TDT",ANTENA 3 
 http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/17fe14c242592879cf70b8b14ab75cb1017c2b34_1637423411/antena3/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/CUATROHD.png" group-title="SP SPAIN/TDT"CUATRO
-
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HEVC" tvg-logo="http://logo.sltv.site/logo/SPAIN/CUATROHD.png" group-title="SP (HEVC/4K)",CUATRO
 https://live.mitele.es/hls/live/2004102/cuatro/playlist.m3u8?hdnts=st=1637406835~exp=1637406924~acl=/*~hmac=7e3241aa13ed157b6db4785b1990cd6d251ae6aaba8ad91bd2f6ab18d104dff8
 
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/TELECINCOHD.png" group-title="SP SPAIN/TDT",TELECINCO 
-
 https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8?hdnts=st=1637406928~exp=1637407018~acl=/*~hmac=a0b339e9c5f27c2ae43c674f433f4bb837fe649d0d8f6a100671e5f272c92d6f
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/LASEXTAHD.png" group-title="SP SPAIN/TDT",LA SEXTA 
-
 http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/dd986fb243ddad8ac450207b3362948be29bb36d_1637411735/lasexta/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 24 HORAS HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/CANAL24HORAS.png" group-title="SP SPAIN/TDT",CANAL 24 HORAS
-
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_576.m3u8
 
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: CANAL 24 HORAS" tvg-logo="http://logo.sltv.site/logo/SPAIN/CANAL24HORAS.png" group-title="SP SPAIN/TDT",CANAL 24 HORAS
-
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: CANAL 24 HORAS" tvg-logo="http://logo.sltv.site/logo/SPAIN/CANAL24HORAS.png" group-title="SP SPAIN/TDT",CANAL 24 HORAS
-
 http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/dd986fb243ddad8ac450207b3362948be29bb36d_1637411735/lasexta/bitrate_2.m3u8
 
 EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN HD (TVE)" tvg-logo="http://logo.sltv.site/logo/SPAIN/CLANTVE.png" group-title="SP INFANTIL",CLAN
-
 https://rtvelivestreamv3.akamaized.net/rtvesec/clan/clan_main_dvr_576.m3u8
 
 #EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/NEOX.png" group-title="SP CINE/SERIES",NEOX
-
 http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/a82e63884630affe29a036e902c247b024c58697_1637425356/geoneox/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/NOVA.png" group-title="SP CINE/SERIES",NOVA
-
 http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/22479eab083043863849a1e9f0f60744257984c6_1637434575/geonova/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/MEGAHD.png" group-title="SP SPAIN/TDT",MEGA
-
 http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/248ad3706b296f1a516832dcb41a79ab2ad29fa1_1637414505/geomega/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="http://logo.sltv.site/logo/SPAIN/FDF.png" group-title="SP CINE/SERIES",FDF
-
 https://live.mitele.es/hls/live/2005336/fdf/playlist.m3u8?hdnts=st=1637407767~exp=1637407856~acl=/*~hmac=a0267918255d6aa98116b9087b574ee7c00d855daa1c4eb6fc56144ad809cece
 
 #EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/ENERGY.png" group-title="SP CINE/SERIES",ENERGY
-
 https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1637407767~exp=1637407856~acl=/*~hmac=a0267918255d6aa98116b9087b574ee7c00d855daa1c4eb6fc56144ad809cece
 
 #EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="http://logo.sltv.site/logo/SPAIN/DIVINITY.png" group-title="SP CINE/SERIES",DIVINITY
-
 https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8?hdnts=st=1637407859~exp=1637407948~acl=/*~hmac=809e50fbf26266eddd0fa015f87e0bbf99c1c52faa7ea9e442a3185572f17157
 
 #EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING" tvg-logo="http://logo.sltv.site/logo/SPAIN/BOING.png" group-title="SP INFANTIL",BOING
-
 https://live.mitele.es/hls/live/2005334/boing/playlist.m3u8?hdnts=st=1637407950~exp=1637408039~acl=/*~hmac=22be33bc5473321e563e3a3c0bc2b07e9023e4cce75ebe800f4aff1a81b008a3
 
 #EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/logo-DKISS-blanco-rojo.png" group-title="SP INFANTIL",DKISS
-
 http://154.62.74.12:1935/live/smil:kiss/chunklist_w1486531602_b3128000_sling.m3u8
 
 #EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/logo-DKISS-blanco-rojo.png" group-title="SP INFANTIL",DKISS
-
 http://154.62.74.12:1935/live/smil:kiss/.m3u8
 
 #EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/logo-DKISS-blanco-rojo.png" group-title="SP INFANTIL",DKISS
-
 http://154.62.74.12:1935/live/smil:kiss/chunklist_w55629718_b3128000_sling.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="http://logo.sltv.site/logo/uk/dmax_us.png" group-title="SP DOCUMENTALES",DMAX
-
 http://185.41.244.69/dmax/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="http://logo.sltv.site/logo/uk/dmax_us.png" group-title="SP DOCUMENTALES",DMAX
-
 http://185.41.244.69/dmax/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="http://logo.sltv.site/logo/uk/dmax_us.png" group-title="SP DOCUMENTALES",DMAX
-
 http://185.41.244.69/dmax/tracks-v2a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="http://logo.sltv.site/logo/SPAIN/PARAMOUNT.png" group-title="SP CINE/SERIES",PARAMOUNT CHANNEL
-
 http://185.41.244.69/paramountnetwork/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="http://logo.sltv.site/logo/SPAIN/PARAMOUNT.png" group-title="SP CINE/SERIES",PARAMOUNT CHANNEL
-
 http://185.41.244.69/paramountnetwork/video.m3u8
 
 #EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="http://logo.sltv.site/logo/SPAIN/PARAMOUNT.png" group-title="SP CINE/SERIES",PARAMOUNT CHANNEL
-
 http://185.41.244.69/paramountnetwork/tracks-v2a1a2/mono.m3u8
 

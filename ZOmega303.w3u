@@ -7,13 +7,13 @@ https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
 https://rtvelivestreamv3.akamaized.net/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://logo.sltv.site/logo/SPAIN/ANTENA3HD.png" group-title="SP SPAIN/TDT",ANTENA 3 
-http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/17fe14c242592879cf70b8b14ab75cb1017c2b34_1637423411/antena3/bitrate_2.m3u8
+https://directo.atresmedia.com/b2e915be1e6c376479b88c15cea6086312f94633_1637676253/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HEVC" tvg-logo="http://logo.sltv.site/logo/SPAIN/CUATROHD.png" group-title="SP (HEVC/4K)",CUATRO
-https://blackghost.live/play/gorda-119.php?&user=IYuYFSlivq/0bvOjRbm7a&c=30|user-agent=telegorda.contrasenaii/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
+https://live.mitele.es/hls/live/2004102-b/cuatro/playlist.m3u8?hdnts=st=1637647518~exp=1637647608~acl=/*~hmac=94e73c56dc3f9ce31ddc2cdebeedffad3abddac9a90a466e0a2ab4abf4614bb7
 
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/TELECINCOHD.png" group-title="SP SPAIN/TDT",TELECINCO 
-https://blackghost.live/play/gorda-119.php?&user=IYuYFSlivq/0bvOjRbm7a&c=46|user-agent=telegorda.contrasenaii/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
+https://live.mitele.es/hls/live/2004101-b/telecinco/playlist.m3u8?hdnts=st=1637647518~exp=1637647608~acl=/*~hmac=94e73c56dc3f9ce31ddc2cdebeedffad3abddac9a90a466e0a2ab4abf4614bb7
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA HD" tvg-logo="http://logo.sltv.site/logo/SPAIN/LASEXTAHD.png" group-title="SP SPAIN/TDT",LA SEXTA 
 http://hls.webredirect.org/i0tw/mp_4953.php/https://directo.atresmedia.com/dd986fb243ddad8ac450207b3362948be29bb36d_1637411735/lasexta/bitrate_2.m3u8
